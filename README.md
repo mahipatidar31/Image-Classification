@@ -17,7 +17,11 @@ In this project, i explore various preprocessing techniques, including morpholog
 ## Steps:
 
 1 Data Ingestion
+
 2 Data Transformation
+
 3 Model Trainer
+
 4 Model Evaluation
+
 5 Model Deployement
